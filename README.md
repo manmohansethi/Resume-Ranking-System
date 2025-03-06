@@ -28,7 +28,7 @@ Finding the right candidate for a job can be time-consuming and challenging. The
 
 Ensure you have **Python 3.8+** installed.ad
 
-### **Step 1: Clone the Repository**  
+###  Clone the Repository
 ```sh
 git clone https://github.com/manmohansethi/Resume-Ranking-System.git
 cd Resume-Ranking-System
