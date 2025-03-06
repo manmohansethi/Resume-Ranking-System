@@ -21,11 +21,18 @@ Finding the right candidate for a job can be time-consuming and challenging. The
 ✅ **Provide a ranked list of candidates based on job relevance**\
 ✅ **Sort resumes automatically, ensuring the best match is given a 100% score**
 
+
 ## 🛠️ Installation
 
 ### Prerequisites
 
 Ensure you have **Python 3.8+** installed.ad
+
+### **Step 1: Clone the Repository**  
+```sh
+git clone https://github.com/manmohansethi/Resume-Ranking-System.git
+cd Resume-Ranking-System
+```
 
 ### Install Dependencies
 
